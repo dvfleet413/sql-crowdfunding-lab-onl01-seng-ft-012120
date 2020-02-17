@@ -19,5 +19,13 @@ INSERT INTO users (name, age) VALUES ("Stephanie", 36);
 INSERT INTO users (name, age) VALUES ("Peter", 31);
 INSERT INTO users (name, age) VALUES ("Amanda", 32);
 
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Booger Stopper", "Medical", 2000, "01/01/2020", "02/29/2020");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Cat Improver", "Pets", 2000, "01/01/2020", "02/29/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Sleep Stopper", "Medical", 2000, "01/01/2020", "02/29/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Cat Improver", "Pets", 1000000, "01/01/2020", "03/31/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Baseball Game Quicker Upper", "Sports", 150000, "02/01/2020", "04/30/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Red Sox Make-Betterer", "Sports", 5000000000, "01/01/2020", "12/31/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Zoolander School For Kids Who Can't Read Good", "Education", 5, "02/01/2020", "02/31/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Promote Dunder Millfin Paper", "Business", 25000, "03/01/2020", "03/31/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Library Renovation", "Education", 50000, "01/01/2020", "06/30/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("New School Textbooks", "Education", 1500, "01/01/2020", "06/30/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Improve Baseball Field", "Community", 15000, "01/01/2020", "04/30/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Start Board Game Club", "Community", 100, "01/01/2020", "02/29/2020");
