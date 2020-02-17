@@ -18,3 +18,5 @@ INSERT INTO users (name, age) VALUES ("Johnny", 34);
 INSERT INTO users (name, age) VALUES ("Stephanie", 36);
 INSERT INTO users (name, age) VALUES ("Peter", 31);
 INSERT INTO users (name, age) VALUES ("Amanda", 32);
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Booger Stopper", "Medical", 2000, "01/01/2020", "02/29/2020");
