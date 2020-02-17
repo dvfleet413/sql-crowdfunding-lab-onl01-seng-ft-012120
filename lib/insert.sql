@@ -29,3 +29,5 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("New School Textbooks", "Education", 1500, "01/01/2020", "06/30/2020");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Improve Baseball Field", "Community", 15000, "01/01/2020", "04/30/2020");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Start Board Game Club", "Community", 100, "01/01/2020", "02/29/2020");
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 1);
